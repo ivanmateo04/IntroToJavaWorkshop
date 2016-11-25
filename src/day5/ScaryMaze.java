@@ -65,7 +65,7 @@ int EndColor=-15532287;
 		//8. play the scary sound. Hint: type "sound" and then a period.		
 		sound.play();
 		//9. drop an image into your day5 package, and use the showScaryImage method to scare your victim!
-showScaryImage("Spooky.jpeg");
+showScaryImage("ScaryGirl.jpg");
 	}
 
 	private void showScaryImage(String imageName) {
